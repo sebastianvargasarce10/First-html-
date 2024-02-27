@@ -1,0 +1,13 @@
+body {
+  font-size: 100%;
+  background-color: #958383;
+}
+ 
+.img-enano {
+  height: 400px;
+  width: 400px;
+  display: flex;
+  align-self: center;
+ 
+}
+ 
